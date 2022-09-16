@@ -1,7 +1,6 @@
 import { 
   ImageBackground, 
   TouchableOpacityProps, 
-  ImageSourcePropType, 
   TouchableOpacity,
   Text
 } from 'react-native';
